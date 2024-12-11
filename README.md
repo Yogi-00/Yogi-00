@@ -1,7 +1,7 @@
-[![MasterHead]([https://static.vecteezy.com/system/resources/previews/024/134/825/large_2x/software-development-life-cycle-banner-web-icon-illustration-concept-of-sdlc-with-icon-of-planning-requirements-design-coding-testing-deploy-and-maintenance-vector.jpg](https://www.canva.com/design/DAGY_a8rdVU/Jcqw-G9xGT5iuE6WsuZOWA/view?utm_content=DAGY_a8rdVU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5f3fd5e8ab))](https://www.linkedin.com/in/yugandhar-chinipilli-601858270/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF7BN4cISiVyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733925267743?e=1739404800&v=beta&t=PgmMt9QqyxrJZltGH5-HpES27-fFhNvQlLHfGcopKqg)](linkedin.com/in/yugandhar-chinipilli-601858270/)
 <h1 align="center">Hi 👋, I'm Yugandhar Chinipilli</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="blob:https://tenor.com/ba6710e4-f7a8-4a7d-b229-598a9b7050ad">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogi-00&label=Profile%20views&color=0e75b6&style=flat" alt="yogi-00" /> </p>
 
