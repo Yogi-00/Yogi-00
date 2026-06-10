@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogi-00&label=Profile%20views&color=0e75b6&style=flat" alt="yogi-00" /> </p>
 
-- 🔭 I’m currently working on [Agent Esports](https://agentesports-trail.vercel.app)
+- 🔭 I’m currently working on [College Rank](https://collegerank.in)
 
 - 🌱 I’m currently learning **DSA,Networking**
 
